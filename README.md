@@ -1,4 +1,4 @@
 # Practice-github
-author-Pandu
+author-Pandu(RGUKT)
 <br>
 This is the Repo to practice my github
